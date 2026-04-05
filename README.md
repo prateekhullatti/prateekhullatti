@@ -30,15 +30,17 @@ Backend-focused developer with hands-on experience in **Java, Spring Boot, and R
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prateekhullatti&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prateekhullatti&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ff6e96&icon_color=ff6e96&text_color=ffffff&bg_color=0d1117" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekhullatti&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekhullatti&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&langs_count=6" />
 
 <br/>
 
-![Streak](https://streak-stats.demolab.com?user=prateekhullatti&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![Streak](https://streak-stats.demolab.com?user=prateekhullatti&theme=dark&hide_border=true&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96&background=0d1117&dates=ffffff)
 
 </div>
 

@@ -22,28 +22,28 @@
 
 ## 👨‍💻 About Me
 
-```java
+java
 public class Prateek {
 
-    String name     = "Prateek U H";
+  String name     = "Prateek U H";
     String location = "Bangalore, India 🇮🇳";
     String role     = "Java Backend & Full-Stack Developer";
 
-    String[] currentWork = {
+  String[] currentWork = {
         "Product Engineer @ AVO Automation",
         "Building scalable backend systems with Spring Boot",
         "Exploring Docker, Kubernetes & CI/CD pipelines"
     };
 
-    String[] strengths = {
+  String[] strengths = {
         "REST API Design & Backend Architecture",
         "API Testing, Debugging & Integration",
         "Agile/Scrum, SDLC/STLC workflows"
     };
 
-    String funFact = "I automate the boring stuff so I can focus on the fun stuff 🤖";
+  String funFact = "I automate the boring stuff so I can focus on the fun stuff 🤖";
 }
-```
+
 
 ---
 

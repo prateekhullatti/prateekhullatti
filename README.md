@@ -3,12 +3,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=160&section=header&text=Prateek%20U%20H&fontSize=52&fontColor=58a6ff&fontAlignY=45&animation=fadeIn" />
 
 ### Java Backend & Full-Stack Developer
-📍 Bangalore, India &nbsp;|&nbsp; 💼 Product Engineer @ AVO Automation &nbsp;|&nbsp; 📧 prateekhullatti123@gmail.com
+📍 Bangalore, India &nbsp;|&nbsp; 💼 Product Engineer @ AVO Automation &nbsp;|&nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prateekhullatti)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/prateekhullatti)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prateekhullatti123@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=prateekhullatti&style=flat-square&color=58a6ff&label=views)
 
 </div>
 
